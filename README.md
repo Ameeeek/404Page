@@ -11,6 +11,11 @@
     <a href="https://404pageamek.netlify.app/">
       Demo
     </a>
+   <span> | <span>
+      <a href="">
+         solution
+      </a>
+   <span> | <span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
