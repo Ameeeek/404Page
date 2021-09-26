@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head{
+    font-family: Inconsolata,monospace;
+    Font-style: Bold;
+    font-size: 24px;
+    text-align: Left;
+    Vertical align: Top;
+    Letter spacing: -8%;
+    padding: 40px 0 0 70px;
+}
+.scarecrow{
+    position: absolute;
+    left: 5.35%;
+    right: 57.21%;
+    top: 24.54%;
+    bottom: 34.03%;
+    width: 539.22px;
+    height: 447.43pxpx;
+}
+
+.container__mainContent{
+    display:flex;
+}
+.container__mainContent {
+    font-family: Space Mono, monospace;
+    font-weight: 700;
+    color: black;
+    display:flex;
+    margin-top: 7rem;
+    margin-left: 45rem;
+    flex-direction: column;
+}
+h1{
+    font-weight: 700;
+    font-size: 64px;
+    letter-spacing: -0.035em;
+    line-height: 95px;
+    margin-bottom: 36px;
+}
+h3{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+    margin-bottom: 64px;
+}
+
+button{
+    font-family: Space Mono;
+    font-weight: 700;
+    color: #fff;
+    width: 216px;
+    height: 68px;
+    background-color: #212121;
+    outline: none;
+    border:none;
+    cursor: pointer;
+}
+
+@media (max-width: 375px){
+    .head{
+        margin: 0 auto;
+        padding: 0;
+        margin-left: 1rem;
+    }
+    .scarecrow{
+    position: relative;
+    left: 11.73%;
+    right: 11.78%;
+    top: 11.49%;
+    bottom: 63.44%;
+    width: 286px;
+    height: 236px;
+    }
+    .container__mainContent{
+        margin: 0;
+        margin-left: 1rem;
+    }
+    h1{
+        font-size: 48px;
+        line-height: 71px;
+        letter-spacing: -0.035em;
+    }
+    h3{
+        font-size: 18px;
+    }
+    button{
+        font-size: 14px;
+    }
+}
