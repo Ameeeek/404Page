@@ -54,7 +54,7 @@
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [how to import font to css properly](https://stackoverflow.com/questions/11737168/how-to-import-fonts-in-css)
-- [head & button tag html tag](w3schools.com)
+- [head & button tag html](w3schools.com)
 
 ## Contact
 
