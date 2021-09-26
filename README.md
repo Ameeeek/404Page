@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot] <img src='screely-1632635310066.png'>
+<img src='screely-1632635310066.png'>
 
 
 
